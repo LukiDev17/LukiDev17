@@ -8,6 +8,10 @@
 
 <p style="color: #39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;">📫 Reach me on Telegram: @LukiDev or <a href="https://web.telegram.org/k/#@Lukidev" style="color: #39ff14;">https://web.telegram.org/k/#@Lukidev</a></p>
 
+<!-- First GIF -->
 <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Private Server GIF" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+
+<!-- Second GIF -->
+<img src="https://media.giphy.com/media/JmBXdjfIblJDi/giphy.gif" alt="Private Server GIF" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
 
 <!--- LukiDev17/LukiDev17 is a ✨ special ✨ repository because its 'README.md" (this file) will appear in your GitHub profile. You can click on the Preview link to take a look at your changes. --->
