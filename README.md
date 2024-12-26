@@ -10,8 +10,3 @@
 
 <!-- First GIF -->
 <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Private Server GIF" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
-
-<!-- Second GIF -->
-<img src="https://media.giphy.com/media/JmBXdjfIblJDi/giphy.gif" alt="Private Server GIF" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
-
-<!--- LukiDev17/LukiDev17 is a ✨ special ✨ repository because its 'README.md" (this file) will appear in your GitHub profile. You can click on the Preview link to take a look at your changes. --->
