@@ -13,14 +13,6 @@
 
 ---
 
-### 👨‍💻 My Tech Stack
-
-- **Languages:** Python, C#, JavaScript, Java
-- **Technologies:** Docker, Kubernetes, CI/CD, RESTful APIs
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
----
-
 ### 📊 GitHub Stats
 
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=LukiDev17&show_icons=true)
