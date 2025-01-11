@@ -10,3 +10,19 @@
 
 <!-- First GIF -->
 <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Private Server GIF" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+
+---
+
+### 👨‍💻 My Tech Stack
+
+- **Languages:** Python, C#, JavaScript, Java
+- **Technologies:** Docker, Kubernetes, CI/CD, RESTful APIs
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+---
+
+### 📊 GitHub Stats
+
+![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=LukiDev17&show_icons=true)
+
+![Meistbenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=LukiDev17&layout=compact&langs_count=10)
