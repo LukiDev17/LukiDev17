@@ -13,8 +13,24 @@
 
 ---
 
+### 👨‍💻 My Tech Stack
+
+- **Languages:** Python, C#, JavaScript, Java
+
+---
+
 ### 📊 GitHub Stats
 
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=LukiDev17&show_icons=true)
 
 ![Meistbenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=LukiDev17&layout=compact&langs_count=10)
+
+---
+
+### 🚀 Latest Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=Repo1)](https://github.com/LukiDev17/Repo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=Repo2)](https://github.com/LukiDev17/Repo2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=Repo3)](https://github.com/LukiDev17/Repo3)
+
+---
