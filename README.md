@@ -29,8 +29,9 @@
 
 ### 🚀 Latest Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=Repo1)](https://github.com/LukiDev17/Repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=Repo2)](https://github.com/LukiDev17/Repo2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=Repo3)](https://github.com/LukiDev17/Repo3)
+<!-- Add this section to dynamically list your latest repositories -->
+### 🛠️ Latest Projects
 
----
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=your-repo-name-1)](https://github.com/LukiDev17/your-repo-name-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=your-repo-name-2)](https://github.com/LukiDev17/your-repo-name-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LukiDev17&repo=your-repo-name-3)](https://github.com/LukiDev17/your-repo-name-3)
