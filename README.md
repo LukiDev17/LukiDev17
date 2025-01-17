@@ -29,38 +29,6 @@
 
 ---
 
-### 🚀 Latest Projects
-
-<!-- Dynamically load your latest repositories -->
-<div id="latest-projects">
-  <!-- Placeholder for dynamically added projects -->
-  <p>Loading your latest projects...</p>
-</div>
-
-<script>
-  // Fetch latest repositories from GitHub
-  fetch('https://api.github.com/users/LukiDev17/repos?sort=updated')
-    .then(response => response.json())
-    .then(repositories => {
-      const projectsContainer = document.getElementById('latest-projects');
-      projectsContainer.innerHTML = '';  // Clear loading text
-
-      repositories.slice(0, 3).forEach(repo => {
-        const projectElement = document.createElement('a');
-        projectElement.href = repo.html_url;
-        projectElement.innerHTML = `<p style="color: #39ff14;">${repo.name} - ${repo.description}</p>`;
-        projectsContainer.appendChild(projectElement);
-      });
-    })
-    .catch(error => {
-      const projectsContainer = document.getElementById('latest-projects');
-      projectsContainer.innerHTML = '<p>Error loading projects.</p>';
-      console.error('Error fetching GitHub repos:', error);
-    });
-</script>
-
----
-
 ### 🌟 Contributions
 
 - **Contributed to:** Several open-source private server projects and game development repositories.
