@@ -51,21 +51,6 @@ Feel free to get in touch for collaboration or any project discussions:
 
 ---
 
-<!-- Google Translate Widget -->
-<div id="google_translate_element" style="margin-top: 20px;"></div>
-<script type="text/javascript">
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      includedLanguages: 'en,de,es,fr,it,pt,ru',
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-    }, 'google_translate_element');
-  }
-</script>
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
----
-
 <footer style="text-align: center; margin-top: 20px;">
   <p style="color: #39ff14;">Made with ❤️ by @LukiDev17</p>
   <p><a href="https://github.com/LukiDev17" style="color: #39ff14;">GitHub Profile</a></p>
