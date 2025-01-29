@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README.md
+        run: |
+          # Hier fügst du dein Skript hinzu, um die README.md zu aktualisieren
+          echo "## Aktualisierte Informationen" >> README.md
+   
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "your_email@example.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README.md automatically" || echo "No changes to commit"
+          git push
