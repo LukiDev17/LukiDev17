@@ -1,15 +1,16 @@
-<h1 style="color: #39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 15px #39ff14, 0 0 20px #39ff14, 0 0 25px #39ff14, 0 0 30px #39ff14, 0 0 35px #39ff14;">👋 Hi, I'm @LukiDev17</h1>
+<h1 align="center" style="color: #39ff14;">👋 Hi, I'm @LukiDev17</h1>
 
-<h2 style="color: #39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;">👀 Passionate about Private Servers</h2>
+<h2 align="center" style="color: #39ff14;">👀 Passionate about Private Servers</h2>
 
-<h3 style="color: #39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;">🌱 Currently learning Python and Java</h3>
+<h3 align="center" style="color: #39ff14;">🌱 Currently learning Python and Java</h3>
 
-<h4 style="color: #39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;">💞️ Open to collaboration on private server projects</h4>
+<h4 align="center" style="color: #39ff14;">💞️ Open to collaboration on private server projects</h4>
 
-<p style="color: #39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;">📫 Reach me on Telegram: @LukiDev or <a href="https://web.telegram.org/k/#@LukiDev" style="color: #39ff14;">https://web.telegram.org/k/#@LukiDev</a></p>
+<p align="center" style="color: #39ff14;">📫 Reach me on Telegram: @LukiDev or <a href="https://web.telegram.org/k/#@LukiDev" style="color: #39ff14;">https://web.telegram.org/k/#@LukiDev</a></p>
 
-<!-- First GIF -->
-<img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Private Server GIF" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+<p align="center">
+    <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" alt="Private Server GIF" style="width: 50%;"/>
+</p>
 
 ---
 
@@ -43,7 +44,7 @@ Feel free to get in touch for collaboration or any project discussions:
 
 ---
 
-<footer style="text-align: center; margin-top: 20px;">
+<footer style="text-align: center;">
   <p style="color: #39ff14;">Made with ❤️ by @LukiDev17</p>
   <p><a href="https://github.com/LukiDev17" style="color: #39ff14;">GitHub Profile</a></p>
 </footer>
