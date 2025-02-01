@@ -16,9 +16,9 @@
 
 ### 👨‍💻 My Tech Stack
 
-- **Languages:** Python, C#, JavaScript, Java
-- **Frameworks & Tools:** Node.js, Django, Flask, Express, MongoDB, SQLite
-- **Other Skills:** Web Development, API Development, Database Management, Game Server Setup
+- **Languages:** Python, C#, JavaScript, Java, HTML, CSS
+- **Frameworks & Tools:** Node.js, Django, Flask, Express, MongoDB, SQLite, React, Vue.js
+- **Other Skills:** Web Development, API Development, Database Management, Game Server Setup, DevOps (Docker, Kubernetes), Cloud Computing (AWS, Azure)
 
 ---
 
@@ -32,8 +32,8 @@
 
 ### 🌟 Contributions
 
-- **Contributed to:** Several open-source private server projects and game development repositories.
-- **Upcoming Work:** I'm working on creating tutorials and guides for setting up private game servers.
+- **Contributed to:** Several open-source private server projects and game development repositories. I also contribute to developing server mods for popular games.
+- **Upcoming Work:** I'm working on creating tutorials and guides for setting up private game servers, including step-by-step instructions and best practices.
 
 ---
 
@@ -41,10 +41,18 @@
 
 Feel free to get in touch for collaboration or any project discussions:
 - **Telegram:** [@LukiDev](https://web.telegram.org/k/#@LukiDev)
+- **LinkedIn:** [LukiDev17](https://www.linkedin.com/in/lukidev17)
+- **GitHub:** [LukiDev17 on GitHub](https://github.com/LukiDev17)
+
+---
+
+### 💬 Let's Build Together
+
+I’m always excited about new challenges and collaborations. If you’re working on a private server or have a project in mind, let’s connect!
 
 ---
 
 <footer style="text-align: center;">
   <p style="color: #39ff14;">Made with ❤️ by @LukiDev17</p>
-  <p><a href="https://github.com/LukiDev17" style="color: #39ff14;">GitHub Profile</a></p>
+  <p><a href="https://github.com/LukiDev17" style="color: #39ff14;">GitHub Profile</a> | <a href="https://www.linkedin.com/in/lukidev17" style="color: #39ff14;">LinkedIn Profile</a></p>
 </footer>
